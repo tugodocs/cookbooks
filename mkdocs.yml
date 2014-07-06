@@ -1,0 +1,12 @@
+site_name: Cookbooks
+pages:
+  - [ index.md, Home ]
+  - [ c.md, C]
+  - [ cpp.md, C++]
+  - [ python.md, Python ]
+  - [ haskell.md, Haskell ]
+  - [ scala.md, Scala ]
+  - [ clojure.md, Clojure ]
+  - [ Java.md, Java ]
+  - [ rust.md, Rust ]
+theme: readthedocs
